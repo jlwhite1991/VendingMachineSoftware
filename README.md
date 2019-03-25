@@ -1,2 +1,3 @@
 # VendingMachineSoftware
-Capstone Project - Vending Machine Software
+
+Imported capstone project files; code needs refactoring
